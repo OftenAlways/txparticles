@@ -1,7 +1,7 @@
 import react from "../public/assets/react.svg";
 import k8s from "../public/assets/k8s.svg";
 import code from "../public/assets/code.png";
-import smallDeer from "../public/assets/small-deer.svg";
+import smallDeer from "https://txsolutions.net/wp-content/uploads/2022/08/txsvg-2.svg";
 import { MoveDirection, OutMode, HoverMode, ClickMode } from "tsparticles-engine";
 import {
     PolygonMaskType,
